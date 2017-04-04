@@ -1,0 +1,4 @@
+H:\gitWorkFloder\ImageMagnifier\MagnifierImage\bin\Debug\MagnifierImage.dll
+H:\gitWorkFloder\ImageMagnifier\MagnifierImage\bin\Debug\MagnifierImage.pdb
+H:\gitWorkFloder\ImageMagnifier\MagnifierImage\obj\Debug\MagnifierImage.dll
+H:\gitWorkFloder\ImageMagnifier\MagnifierImage\obj\Debug\MagnifierImage.pdb

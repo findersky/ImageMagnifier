@@ -1,0 +1,10 @@
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\bin\Debug\ImageMagnifier.exe
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\bin\Debug\ImageMagnifier.pdb
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\obj\x86\Debug\ImageMagnifier.ImageMagnifier.resources
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\obj\x86\Debug\ImageMagnifier.Properties.Resources.resources
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\obj\x86\Debug\ImageMagnifier.csproj.GenerateResource.Cache
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\obj\x86\Debug\ImageMagnifier.exe
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\obj\x86\Debug\ImageMagnifier.pdb
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\bin\Debug\MagnifierImage.dll
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\bin\Debug\MagnifierImage.pdb
+H:\gitWorkFloder\ImageMagnifier\ImageMagnifier\obj\x86\Debug\ImageMagnifier.csprojResolveAssemblyReference.cache
